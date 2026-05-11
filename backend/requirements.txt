@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+sentence-transformers
+spacy
+networkx
+elasticsearch
+python-multipart
+celery
+redis
+transformers
+torch
